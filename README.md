@@ -1,3 +1,14 @@
+# Problem statement
+
+**Đề bài**: Bạn là nhân viên thanh toán tại cửa hàng. Khách hàng muốn đổi tiền mặt. Viết chương trình để tính làm sao bạn có thể trả lại số tờ tiền ít nhất có thể. Sử dụng tiền tệ Việt Nam {1, 2, 5, 10, 20, 50, 100, 200, 500}. <br/>
+**Problem**: You’re a cashier. Customers want to change their money. Write a program to minimize the number of cash you’re dispensing for each customer. Using Vietnamese currency {1, 2, 5, 10, 20, 50, 100, 200, 500}.
+
+**Input**: 93 <br/>
+**Output**: “Change: 50 20 20 2 1” 
+
+**Input**: 113 <br/>
+**Output**: “Change: 100 10 2 2”
+
 # Instructions
 
 ## Setup
