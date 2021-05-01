@@ -10,8 +10,8 @@ def test_main_1(capfd):
 
 # Test Case 2:
 # Input: 113
-# Output: “Change: 100 10 2 2”
+# Output: “Change: 100 10 2 1”
 def test_leap_year_false(capfd):
     main(11)
     out, err = capfd.readouterr()
-    assert out == "Change: 100 10 2 2\n"
+    assert out == "Change: 100 10 2 1\n"
