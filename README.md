@@ -7,7 +7,7 @@
 **Output**: “Change: 50 20 20 2 1” 
 
 **Input**: 113 <br/>
-**Output**: “Change: 100 10 2 2”
+**Output**: “Change: 100 10 2 1”
 
 # Instructions
 
